@@ -1,0 +1,8 @@
+|============================================================================================|
+|                               DESCRIPTION PROBLEMS                                         |
+|============================================================================================|
+| In this project, we will solve the following problems:                                     |
+|- 1) Collect data by web-scarping via Selenium & Linkedin based on the given url.           |
+|- 2) Collect data by web-scarping via Selenium & Linkedin based on given email.             |
+|- 3) Build-in model & predict.                                                              |
+|============================================================================================|
